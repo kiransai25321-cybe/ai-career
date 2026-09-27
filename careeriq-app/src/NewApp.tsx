@@ -1,12 +1,12 @@
 import React, { useState, useEffect } from 'react';
 import { 
-  Briefcase, CheckCircle, ChevronRight, BarChart2, FileText, Cpu, Target, 
+  Briefcase, ChevronRight, BarChart2, FileText, Cpu, Target, 
   Sun, Moon, Bell, Upload, Sparkles, TrendingUp, ArrowRight, Menu, X, 
-  Mic, LogOut, Check, Search, Filter, AlertCircle, PlusCircle, RefreshCw
+  Mic, LogOut, Check, Search, PlusCircle, RefreshCw
 } from 'lucide-react';
 import { 
   AreaChart, Area, XAxis, YAxis, Tooltip, ResponsiveContainer, BarChart, 
-  Bar, RadarChart, PolarGrid, PolarAngle, PolarRadiusAxis, Radar 
+  Bar, RadarChart, PolarGrid, PolarAngleAxis, PolarRadiusAxis, Radar 
 } from 'recharts';
 
 // --- DATA TYPES ---
